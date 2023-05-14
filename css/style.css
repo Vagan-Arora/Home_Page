@@ -1,0 +1,86 @@
+
+.nav{
+    margin-right: auto;
+}
+
+.google-img {
+    margin-top: 3.5rem;
+
+}
+
+.google-input {
+    margin-top: 2rem;
+    outline: none;
+    border: none;
+    border: 1px solid #bababa;
+    width: 30rem;
+    border-radius: 100px;
+    padding: 0 .5rem;
+    border-left-style: none;
+
+}
+
+.input-group-text {
+    margin-top: 2rem;
+    border-radius: 100px;
+    background-color: #fff;
+    border-right-style: none;
+    color: #9c9c9c;
+
+}
+
+.buttonn {
+    margin-top: 1rem;
+    outline: none;
+    border-style: none;
+    padding: 0.4rem 1rem;
+    background-color: #f8f9fA;
+    color: #272140;
+    border-radius: 4px;
+}
+
+.buttonn {
+    border: 1px solid #f8f7f7;
+}
+
+links {
+    margin-top: 1rem;
+    font-size: 14px !important;
+}
+
+.links-a {
+    margin-right: 0.5rem;
+    color: #1A0DBE;
+    text-decoration: none;
+}
+
+.links-a:hover {
+    color: #1A0DBE;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    font-size: 14px;
+    color: #6F6F99;
+}
+
+.p-footer {
+    margin-top: 0.6rem;
+    margin-bottom: -4px;
+    margin-left: 1.5rem;
+}
+
+.a-footer {
+    margin-left: 1.5rem;
+
+}
+
+.a-foot {
+    text-decoration: none !important;
+    margin-right: 1rem;
+}
+
+.a-foot:hover {
+    text-decoration: underline !important;
+}
